@@ -1,0 +1,23 @@
+//
+//  .gitignore
+//  FcmNotificationServer
+//
+//  Created by Giwoo Kim on 11/6/24.
+//
+
+
+# Xcode 빌드 파일
+build/
+DerivedData/
+
+# 사용자 설정 파일
+*.xcuserstate
+*.xcworkspace
+
+# 기타 IDE 및 시스템 파일
+.DS_Store
+
+**/*.json
+**/*.plist
+
+
